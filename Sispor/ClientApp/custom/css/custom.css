@@ -1,0 +1,19 @@
+.SisporMainC{
+	background-color: #0094d4!important;
+}
+
+.SisporMainTxt{
+	color: #0094d4!important;
+}
+
+.sidebar.toggled .nav-item .nav-link span{
+	color: #0094d4!important;
+}
+
+.sidebar .nav-item .nav-link {
+ color: #0094d4!important;
+}
+
+.sidebar {
+  background-color: #f5f5f5 !important;
+}

@@ -1,0 +1,81 @@
+<div class="container-fluid">
+  <h3 class="font-weight-bold SisporMainTxt">Consulta Proveedores</h3>
+  <hr>
+  <div class="row">
+    <div class="col-sm-12 col-lg-12">
+      <div class="alert alert-primary" role="alert">
+        <form>
+          <div class="form-row">
+            <div class="form-group col-md-3 offset-md-1">
+              <label for="">Razón Social</label>
+              <input class="form-control form-control-sm" id="">
+            </div>
+            <div class="form-group col-md-3">
+              <label for="">CUIT</label>
+              <input class="form-control form-control-sm">
+            </div>
+            <div class="form-group col-md-3">
+              <label for="exampleFormControlSelect1">Nacional / Extranjero</label>
+              <select class="form-control form-control-sm" id="exampleFormControlSelect1">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>Otro</option>
+              </select>
+            </div>
+            <div class="form-group col-md-2">
+              <a class="btn btn-primary mt-4" href="#" role="button"><i class="fa fa-search"></i> Buscar</a>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="row mb-2">
+    <div class="col-sm-12">
+      <a class="float-right" [routerLink]="['../proveedor']"><i class="fa fa-plus"></i> Nuevo Proveedor</a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12 col-lg-12">
+      <div class="table-responsive">
+        <table class="table text-center table-hover table-striped">
+          <thead class="text-white SisporMainC">
+            <tr>
+              <th scope="col">Razón Social</th>
+              <th scope="col">CUIT</th>
+              <th scope="col">Fecha de alta</th>
+              <th scope="col">Nacional/Extranjero</th>
+              <th scope="col"></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Droguería San Juan S.R.L</td>
+              <td>20255596351</td>
+              <td>20/12/2011</td>
+              <td>Nacional</td>
+              <td><a href="edicion_proveedores.html"><i class="fa fa-edit"></i></a></td>
+            </tr>
+            <tr>
+              <td>Droguería San Juan S.R.L</td>
+              <td>20255596351</td>
+              <td>20/12/2011</td>
+              <td>Nacional</td>
+              <td><a href="edicion_proveedores.html"><i class="fa fa-edit"></i></a></td>
+            </tr>
+            <tr>
+              <td>Droguería San Juan S.R.L</td>
+              <td>20255596351</td>
+              <td>20/12/2011</td>
+              <td>Nacional</td>
+              <td><a href="edicion_proveedores.html"><i class="fa fa-edit"></i></a></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+</div>
