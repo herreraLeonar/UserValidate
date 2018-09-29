@@ -11508,11 +11508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Orsna_Solution\\BD\\BD.csproj",
+      "projectUniqueName": "C:\\Users\\SUPERHP\\Documents\\GitHub\\UserValidate\\BD\\BD.csproj",
       "projectName": "BD",
-      "projectPath": "C:\\Orsna_Solution\\BD\\BD.csproj",
+      "projectPath": "C:\\Users\\SUPERHP\\Documents\\GitHub\\UserValidate\\BD\\BD.csproj",
       "packagesPath": "C:\\Users\\SUPERHP\\.nuget\\packages\\",
-      "outputPath": "C:\\Orsna_Solution\\BD\\obj\\",
+      "outputPath": "C:\\Users\\SUPERHP\\Documents\\GitHub\\UserValidate\\BD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

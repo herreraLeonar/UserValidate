@@ -11521,11 +11521,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Orsna_Solution\\BL\\BL.csproj",
+      "projectUniqueName": "C:\\Users\\SUPERHP\\Documents\\GitHub\\UserValidate\\BL\\BL.csproj",
       "projectName": "BL",
-      "projectPath": "C:\\Orsna_Solution\\BL\\BL.csproj",
+      "projectPath": "C:\\Users\\SUPERHP\\Documents\\GitHub\\UserValidate\\BL\\BL.csproj",
       "packagesPath": "C:\\Users\\SUPERHP\\.nuget\\packages\\",
-      "outputPath": "C:\\Orsna_Solution\\BL\\obj\\",
+      "outputPath": "C:\\Users\\SUPERHP\\Documents\\GitHub\\UserValidate\\BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11544,8 +11544,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Orsna_Solution\\BD\\BD.csproj": {
-              "projectPath": "C:\\Orsna_Solution\\BD\\BD.csproj"
+            "C:\\Users\\SUPERHP\\Documents\\GitHub\\UserValidate\\BD\\BD.csproj": {
+              "projectPath": "C:\\Users\\SUPERHP\\Documents\\GitHub\\UserValidate\\BD\\BD.csproj"
             }
           }
         }
